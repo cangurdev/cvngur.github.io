@@ -1,6 +1,6 @@
 # Site settings
 title: Can Gür
-description: 'Hello World'
+description: 'Boş zamanlarımda kod yazarım, gerisi Rock'N Roll \m/'
 url: 'http://cvngur.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -11,7 +11,6 @@ author:
   name: 'Can Gür'
   email: can.gur@yahoo.com
   twitter_username: CodeEmAll
-  instagram_username: cvngur
   github_username:  cvngur
   linkedin_username:  cangur
 
