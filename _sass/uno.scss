@@ -1309,7 +1309,7 @@ hr {
 .btn, .navigation__item a {
 	padding: 10px 20px;
 	border: 1px solid #e25440;
-	border-radius: 20px;
+	border-radius: 40px;
 	font-size: .9em;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -1376,7 +1376,7 @@ nav {
 .navigation__item {
 	display: inline-block;
 	margin: 0 2px 0 0;
-	line-height: 1em; }
+	line-height: 2em; }
 	.navigation__item a {
 		display: block;
 		position: relative;
@@ -1391,12 +1391,12 @@ nav {
 .navigation--social {
 	margin-left: 1.5em; }
 	.navigation--social a {
-		padding: 6px 8px 6px 9px; }
+		padding: 6px 12px; }
 		.navigation--social a .label {
 			display: none; }
 		.navigation--social a .icon {
 			display: block;
-			font-size: 1.7em; }
+			font-size: 3em; }
 
 .pagination {
 	display: block;
