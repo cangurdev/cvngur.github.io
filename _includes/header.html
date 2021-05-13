@@ -81,7 +81,16 @@
                 </a>
               </li>
               {% endif %}
-
+              {% if site.author.medium_username %}
+              <!-- GitHub -->
+              <li class="navigation__item">
+                <a href="https://www.{{ site.author.medium_username }}.medium.com"
+                  title="{{ site.author.medium_username }} on Medium" target="_blank">
+                  <i class="icon icon-social-Medium"></i>
+                  <span class="label">Medium</span>
+                </a>
+              </li>
+              {% endif %}
               {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
